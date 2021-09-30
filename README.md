@@ -10,4 +10,8 @@ Aplicação de pesquisa de CEP utilizando o BrasilApi
 
 ### python3 {nome_do_arquivo.py}
 
+# Aplicação em execução: :clapper:
+
+![codigo rodando](images/cep.gif)
+
 
